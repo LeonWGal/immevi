@@ -28,7 +28,7 @@ A simple application for viewing image metadata with support for AI image genera
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/image-metadata-viewer.git
+git clone https://github.com/LeonWGal/immevi.git
 cd image-metadata-viewer
 ```
 
