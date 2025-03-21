@@ -4,6 +4,8 @@
 
 A simple application for viewing image metadata with support for AI image generation parameters display.
 
+https://imgur.com/a/f47ORbk
+
 ## Features
 
 - View image metadata (EXIF, AI generation parameters, etc.)
