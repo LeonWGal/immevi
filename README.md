@@ -1,48 +1,50 @@
 # Image Metadata Viewer
 
-Простое приложение для просмотра метаданных изображений с поддержкой отображения параметров генерации AI-изображений.
+[English](README.md) | [Русский](README.ru.md)
 
-## Возможности
+A simple application for viewing image metadata with support for AI image generation parameters display.
 
-- Просмотр метаданных изображений (EXIF, параметры генерации AI и др.)
-- Поддержка отображения параметров генерации Stable Diffusion
-- Группировка параметров по категориям
-- Копирование значений в буфер обмена
-- Экспорт метаданных в различные форматы (TXT, CSV, JSON)
-- Тёмная тема интерфейса
-- Drag & Drop поддержка
-- История открытых файлов
+## Features
 
-## Требования
+- View image metadata (EXIF, AI generation parameters, etc.)
+- Support for Stable Diffusion generation parameters display
+- Parameter grouping by categories
+- Copy values to clipboard
+- Export metadata in various formats (TXT, CSV, JSON)
+- Dark theme interface
+- Drag & Drop support
+- Recent files history
+
+## Requirements
 
 - Python 3.8+
 - PyQt6
 - Pillow
 - pyperclip
 
-## Установка
+## Installation
 
-1. Клонируйте репозиторий:
+1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/image-metadata-viewer.git
 cd image-metadata-viewer
 ```
 
-2. Установите зависимости:
+2. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-## Использование
+## Usage
 
-Запустите приложение:
+Run the application:
 ```bash
 python imadata2.py
 ```
 
-Или перетащите изображение в окно приложения.
+Or drag and drop an image into the application window.
 
-## Поддерживаемые форматы
+## Supported Formats
 
 - JPEG/JPG
 - PNG
@@ -51,6 +53,6 @@ python imadata2.py
 - TIFF
 - WebP
 
-## Лицензия
+## License
 
-MIT License. См. файл [LICENSE](LICENSE) для подробностей. 
+MIT License. See [LICENSE](LICENSE) file for details. 
