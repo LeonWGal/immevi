@@ -4,7 +4,7 @@
 
 A simple application for viewing image metadata with support for AI image generation parameters display.
 
-https://imgur.com/a/f47ORbk
+https://i.imgur.com/kRquwmk.png
 
 ## Features
 
